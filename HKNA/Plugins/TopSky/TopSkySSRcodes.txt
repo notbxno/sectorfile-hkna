@@ -1,0 +1,78 @@
+// ##################################################################
+//                 VATSSA | FIR HKNA | TopSky | SSRCodes
+// ##################################################################
+
+// Version v0.4
+// Update Date 23/02/2024
+
+
+// ##################################################################
+//                 HKNA NAIROBI
+// ##################################################################
+
+// FIR TRANSIT
+RANGE:0500:0577
+PRIORITY:2
+NOTADEP:HK
+NOTADES:HK
+IFR
+
+RANGE:1320:1377
+PRIORITY:3
+NOTADEP:HK
+NOTADES:HK
+IFR
+
+
+// ##################################################################
+//                 HK KENYA
+// ##################################################################
+
+// HK DOMESTIC
+RANGE:0700:0777
+PRIORITY:1
+ADEP:HK
+ADES:HK
+IFR
+
+RANGE:5300:5377
+PRIORITY:3
+ADEP:HK
+ADES:HK
+IFR
+
+RANGE:5400:5477
+PRIORITY:2
+ADEP:HK
+ADES:HK
+
+// HK INTERNATIONAL OUTBOUND
+RANGE:0500:0577
+PRIORITY:3
+ADEP:HK
+NOTADES:HK
+IFR
+
+RANGE:1320:1377
+PRIORITY:3
+ADEP:HK
+NOTADES:HK
+IFR
+
+// HK INTERNATIONAL INBOUND
+RANGE:0500:0577
+PRIORITY:3
+NOTADEP:HK
+ADES:HK
+IFR
+
+RANGE:1320:1377
+PRIORITY:3
+NOTADEP:HK
+ADES:HK
+IFR
+
+
+// ##################################################################
+//                 THE END
+// ##################################################################

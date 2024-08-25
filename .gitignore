@@ -1,0 +1,15 @@
+# File Type Exclusions
+*.prf
+*.ese
+*.sct
+*.rwy
+*.pdf
+
+# Folder Exclusions
+HKNA/Alias/*
+HKNA/NavData/*
+HKNA/ICAO/*
+HKNA/Sounds/*
+
+# File Exclusions
+*aeronav_copyright.txt
