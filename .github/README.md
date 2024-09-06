@@ -1,6 +1,6 @@
 # VATSSA Sector File Development for HKNA Nairobi
 
-[![latest-version](https://img.shields.io/github/v/release/VATSIM-SSA/sectorfile-gvsc?include_prereleases)](https://github.com/vatssa/sectorfile-gvsc/releases) [![topsky-version](https://img.shields.io/badge/TopSky-2.4.1-blue.svg)](https://forum.vatsim-scandinavia.org/t/topsky)
+[![latest-version](https://img.shields.io/github/v/release/VATSIM-SSA/sectorfile-hkna?include_prereleases)](https://github.com/VATSIM-SSA/sectorfile-hkna/releases) [![topsky-version](https://img.shields.io/badge/TopSky-2.4.1-blue.svg)](https://forum.vatsim-scandinavia.org/t/topsky)
 [![gr-version](https://img.shields.io/badge/Ground%20Radar-1.5-blue.svg)](https://forum.vatsim-scandinavia.org/t/ground-radar) [![gr-version](https://img.shields.io/badge/PushbackFlorian-1.1.0-blue.svg)](https://github.com/MorpheusXAUT/PushbackFlorian) [![gr-version](https://img.shields.io/badge/vCH-0.8.4-blue.svg)](https://github.com/DrFreas/VCH) [![gr-version](https://img.shields.io/badge/vFPC-2.1.1-blue.svg)](https://github.com/hpeter2/VFPC)
 
 ## Introduction
@@ -17,8 +17,10 @@ The HKNA FIR covers the entirety of Kenya's borders.
 
 ## Key Airports
 
-- HKJK
-- HKMO
+- HKJK |
+- HKMO |
+
+## How to Contribute
 
 ## How to Contribute
 
