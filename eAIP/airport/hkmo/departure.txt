@@ -1,0 +1,8 @@
+===== HKMO Departure =====
+
+  * HKMO doesn't have a dedicated Departure Position, with Mombasa Radar (HKMO_APP) assuming the role of Departure.
+
+==== Departure Procedures ====
+
+  * All aircraft are required to fly the assigned SID given by ATC. Controllers may issue continuous climb instructions to FL145.
+

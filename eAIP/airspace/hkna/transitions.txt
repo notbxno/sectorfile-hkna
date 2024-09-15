@@ -1,0 +1,9 @@
+===== HKNA Nairobi Transition Table =====
+
+{{page>ssa-transition-table#Dynamic Transition}}
+
+
+{{page>ssa-transition-table#HKNA}}
+
+
+{{page>hk-footer#HKNA}}

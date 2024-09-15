@@ -1,0 +1,64 @@
+===== FNAN Luanda Agreements =====
+
+==== External (Division) ====
+
+=== FAJA Johannesburg ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+=== FBGR Gaborone ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+=== FLFI Lusaka ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+=== FQBE Beira ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+=== FYWF Windhoek ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+==== Internal (FVHF) ====
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |   -            | -             | - |
+| //Notes// |||||||
+
+
+{{page>fn-footer#FNAN}}
+

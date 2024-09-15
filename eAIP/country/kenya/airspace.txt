@@ -1,0 +1,10 @@
+==== Kenya Airspace ====
+
+=== Airspace ===
+
+^ ICAO  ^ Name              ^ SSA Code  ^ Type    ^ Remarks ^
+| HKNA | Nairobi    | [[airspace:hkna:home|HKNA]] | -       | - |
+
+
+
+{{page>hk-footer#Kenya}}
