@@ -1,0 +1,24 @@
+===== HKNA Nairobi Airspace Rules =====
+
+==== Separation ====
+
+
+==== CPDLC ====
+
+  * CPDLC is available within the HKNA FIR airspace through the HKNA Logon Address.
+
+==== SELCAL ====
+
+  * SELCAL is NOT available within the HKNA FIR airspace.
+
+==== SLOP ====
+
+  * SLOP is NOT possible within the HKNA FIR airspace.
+
+
+==== VFR Rules ====
+
+  * VFR flights shall not be operadored above FL150 without approval.
+
+
+{{page>hk-footer#HKNA}}

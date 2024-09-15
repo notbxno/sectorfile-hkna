@@ -22,6 +22,4 @@ The HKNA FIR covers the entirety of Kenya's borders.
 
 ## How to Contribute
 
-## How to Contribute
-
 For more information on how to contribute, please refer to VATSSA's Sector File Development Overview Repository [How to Contribute](https://github.com/VATSIM-SSA/sectorfile-overview/wiki/How-to-Contribute) page.
