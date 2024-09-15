@@ -1,0 +1,6 @@
+===== HKMO | Mombasa Moi International | Nairobi, Kenya =====
+
+{{tabembed>about|About,delivery|Delivery,ground|Ground,tower|Tower,departure|Departure,approach|Approach,coordination|Coordination,charts|Charts,scenery|Scenery,briefing|Briefing}}
+
+----
+[[country:kenya:home|Kenya]] (HK) Airports | [[airport:hkmo:country|HKMO]]
