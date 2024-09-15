@@ -1,0 +1,10 @@
+===== HKNA Nairobi Initial Climb =====
+
+^ ICAO ^ RWY ^ Initial Fix ^ Initial Climb ^ Remarks ^
+| DNAA | 04-22 | IKSEM, IKVAD, OXORU | FL090 | - |
+| DNBE | 05-23 | DEKUX | FL090 | - |
+| DNKN | 06-24 | BOMVO, DETAR | FL070 | - |
+| DNMM | 18L-18R |  BUDSI, IBA, ILKEL, UMUNA, POLTO, BOTBO, PISBA | FL090 | //Except UMUNA1S - FL120// |
+| DNPO | 21 | AKDIT, ETVUN | FL070 | - |
+
+{{page>hk-footer#HKNA}}

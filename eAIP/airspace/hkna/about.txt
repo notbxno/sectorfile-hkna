@@ -1,0 +1,13 @@
+===== HKNA Nairobi Flight Information Region =====
+
+  * 
+
+==== Airport Coverage ====
+
+Nairobi FIR covers the following airports:
+
+=== Kenya ===
+
+{{page>kenya-airports#Kenya Airports}}
+
+{{page>hk-footer#HKNA}}

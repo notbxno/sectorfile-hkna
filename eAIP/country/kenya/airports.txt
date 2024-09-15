@@ -1,0 +1,13 @@
+==== Kenya Airports ====
+
+^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
+| [[HKJK]]  | Jomo Kenyatta | Nairobi       | In Development| - |
+| [[HKMO]] | Moi International | Mombasa | N/A | - |
+| [[HKEL]] | Eldoret International | Eldoret | N/A | - |
+| [[HKKI]] | Kisumu International | Kisumu | N/A | - |
+| [[HKNW]] | Wilson Airport | Nairobi | N/A | - |
+| [[HKWJ]] | Wajir Airport | Wajir | N/A | - |
+
+
+
+{{page>hk-footer#Kenya}}

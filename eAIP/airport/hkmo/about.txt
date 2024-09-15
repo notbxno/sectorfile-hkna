@@ -1,0 +1,57 @@
+===== HKMO About =====
+
+**Moi International Airport** (IATA: MBA, ICAO: HKMO) is an international airport in Mombasa, the second-largest city in [[Kenya]]. In 2020, the airport was heralded as the "Best Airport in Africa" (with under 2 million passengers annually) by Airports Council International.
+
+Moi International Airport serves the city of Mombasa and surrounding communities. It lies approximately 425 kilometres, by air, southeast of [[Jomo Kenyatta International Airport]] ( [[HKJK]] ), the largest and busiest airport in the country. Mombasa Airport is operated by Kenya Airports Authority. It was named after former Kenyan President **Daniel arap Moi** during his tenure.
+
+
+More information available at [[https://en.wikipedia.org/wiki/Moi_International_Airport|Wikipedia]].
+
+==== Aerodrome Data ====
+
+| ICAO                  | HKMO |
+| IATA                  | MBA |
+| Elevation             | 200ft |
+| Transition Altitude   | 5000 ft |
+| Transition Level      | FL060 |
+| Mag Variation         | 1.2º W |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Moi_International_Airport&params=4.040000_S_39.59000_E_type:airport|04°02′24″S 39°35′24″E]] |
+| Site | [[http://kaa.go.ke/]] |
+
+==== Runways ====
+
+^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Slope  ^ Remarks ^
+| 03     | 030º    | 3349     | 3349     | 3429     | 3350    | 0.11%  | - |
+| 21     | 210º    | 3349     | 4078     | 3409     | 3350    | -0.11% | - |
+| 15     | 151º    | 1308     | 2138     | 1388     | 1100    | 0.30%  | - |
+| 33     | 331º    | 1308     | 2138     | 1388     | 1100    | -0.30% | - |
+
+==== Aprons ====
+
+^ Apron     ^ Type              ^ Entry / Exit  ^ Remarks ^
+| Terminal 1   | Main Terminal / International  | Twys  M, L, K, J         | - |
+| Terminal 2 | Domestic| Twys M, L, K, J| Not in use |
+| Apron 1  | Domestic     | Twys M, L, K, J        | - |
+| Apron GA  | General Aviation | Twys H, J, K      | - |
+| Apron 2  | Secondary Terminal | Twys E, M, L        | Not in use |
+
+==== Positions & Frequencies ====
+
+^ Position  ^ Callsign          ^ Frequency ^ Remarks ^
+| HKMO_ATIS | Mombasa ATIS        | 126.300   | - |
+| HKMO_GND  | Mombasa Ground      | 121.600   | - |
+| HKMO_TWR  | Mombasa Tower       | 118.600   | - |
+| HKMO_APP  | Mombasa Radar | 122.700 | - |
+| HKNA_CTR  | Nairobi Control     | 121.300 | - |
+
+==== Airspace ====
+
+  * //This section might require further review due to the proximity of HKNW and HKRE.//
+
+^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Mombasa CTR   | D     | HKMO_TWR | GND - 3500 | - |
+| Mombasa TMA   | E     | HKMO_APP | 1500 - FL145  | - |
+| Nairobi FIR/UIR     | A     | HKNA_CTR | FL145 - UNL    | - |
+
+
+{{page>hk-footer#HKMO}}
