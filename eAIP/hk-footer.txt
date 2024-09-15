@@ -1,22 +1,22 @@
 ==== Kenya ====
 ----
 
-//This page is a subsection of the [[Kenya]] country page.//
+//This page is a subsection of the [[country:kenya:home|Kenya]] country page.//
 
 ==== HKNA ====
 
 ----
 
-[[HKNA]] Nairobi FIR | v0.1
+[[airspace:hkna:home|HKNA]] Nairobi FIR | v0.1
 
 ==== HKJK ====
 
 ----
 
-[[HKJK]] Jomo Kenyatta Intl | v0.1
+[[airport:hkjk:home|HKJK]] Jomo Kenyatta Intl | v0.1
 
 ==== HKMO ====
 
 ----
 
-[[HKMO]] Moi Intl | v0.1
+[[airport:hkmo:home|HKMO]] Moi Intl | v0.1

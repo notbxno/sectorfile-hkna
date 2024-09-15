@@ -3,4 +3,4 @@
 {{tabembed>about|About,delivery|Delivery,ground|Ground,tower|Tower,departure|Departure,approach|Approach,coordination|Coordination,charts|Charts,scenery|Scenery,briefing|Briefing}}
 
 ----
-[[Kenya]] (HK) Airports | [[HKMO]]
+[[country:kenya:home|Kenya]] (HK) Airports | [[airport:hkmo:country|HKMO]]
