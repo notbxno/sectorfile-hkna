@@ -18,8 +18,8 @@ JKIA is located in the Embakasi suburb 18 kilometres (11 miles) southeast of Nai
 ==== Runways ====
 
 ^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Remarks ^
-| 06 | 054º | 4117 | 4178 | 3620 | 4117 | - |
-| 24 | 234º | 4117 | 4178 | 3620 | 4117 | - |
+| 06 | 054º | 4117 | 4457 | 4178 | 4117 | - |
+| 24 | 234º | 4117 | 4457 | 4178 | 4117 | - |
 
 
 ==== Aprons ====
