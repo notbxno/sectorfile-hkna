@@ -45,7 +45,7 @@ Proceed directly towards, PENGO maintaining FL30 and intercept the access lane t
 
 ==== Holds ====
 ^ Name  ^ ILS Approach ^ Altitude ^ Speed (IAS)   ^ Inbound CRS ^ Turn ^ Remarks ^
-| MOV | IFR MISS	ED ARRIVAL | FL30 | 230 KT | 030º | Right | Missed Arrival incase Diani Airport is not in sight |
+| MOV | IFR MISSED ARRIVAL | FL30 | 230 KT | 030º | Right | Missed Arrival incase Diani Airport is not in sight |
 
 ==== Missed Approach Procedures ====
 
@@ -59,7 +59,7 @@ Proceed directly towards, PENGO maintaining FL30 and intercept the access lane t
 The assumed MSA is 2600ft
 
 ==== Diversions ====
-	
+
 ^ ICAO ^ Name ^ Distance  ^ Longest Rwy ^ Remarks ^ 
 | HTZA	 | Abeid Amani Karume International Airport | 117 nm | 3007m | - |
 | HKMO | Moi International Airport | 15nm | 3350m | - |
