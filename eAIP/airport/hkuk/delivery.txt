@@ -44,7 +44,6 @@ As there are no IFR operations at Diani, no SIDs are avialable, check the VFR de
 
 ==== Departure Procedures & Initial Climbs ====
 
-
 VFR departures are available at Diani 
 
 ** VFR Departure Runway 01**
@@ -54,6 +53,23 @@ Climb straight ahead, passing 400ft, make a climbing LEFT turn to the TIWI marke
 Climb straight ahead, passing 500ft, make a climbing RIGHT turn to the TIWI marker and maintain 2000ft.
 
 Departure can further be coordinated by Mombasa Radar or can be continued on the VFR access lane by a climb to FL28.
+
+** VFR Access Lane**
+Diani has one acess lane for a northwesterly departure, following this route for departures:
+
+When HKR11 active:
+* TIWI marker
+* PENGO marker
+* turn right or left or get authorization from Mombasa Radar to avoid airspace infringement
+* VFR to IFR clearances can also be obtained from Mombasa Radar
+
+When HKR11 not active:
+* TIWI marker
+* PENGO marker
+* LANZE marker (optional)
+* VFR to IFR clearances can also be obtained from Mombasa Radar
+
+Minimum reccommended altitude for access lane is FL28
 
 
 {{page>hk-footer#HKUK}}
