@@ -13,7 +13,7 @@ The HKNA FIR covers the entirety of Kenya's borders.
 
 ## Countries & Territories
 
-- [Kenya}(https://eaip.vatssa.com/country/kenya/home)
+- [Kenya](https://eaip.vatssa.com/country/kenya/home)
 
 ## Key Airports
 
