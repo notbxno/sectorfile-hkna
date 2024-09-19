@@ -1,4 +1,4 @@
-===== HKMO About =====
+===== HKUK About =====
 
 **Diani Airport** (IATA: UKA, ICAO: HKUK) is a small airfield near Diani Beach in Kwale County, Kenya. The airport serves the local areas of Diani, Ukunda, Tiwi and Msambweni
 
@@ -26,7 +26,7 @@ More information available at [[https://en.wikipedia.org/wiki/Ukunda_Airport|Wik
 
 ^ Apron     ^ Type              ^ Entry / Exit  ^ Remarks ^
 | Terminal 1   | Main Terminal / International  | Entry through first right-hand taxiway on Runway 01 side, second left-hand taxiway on Runway 19 side | - |
-| Secondary Apron | General Aviation | Entry through first left-hand taxiway on Runway 19 side, second right-hand taxiway on Runway 01 side | - |
+| Apron | General Aviation | Entry through first left-hand taxiway on Runway 19 side, second right-hand taxiway on Runway 01 side | - |
 
 
 ==== Positions & Frequencies ====

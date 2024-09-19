@@ -69,6 +69,8 @@ When HKR11 not active:
 * LANZE marker (optional)
 * VFR to IFR clearances can also be obtained from Mombasa Radar
 
+**NOTE: Diani Tower controls access lane**
+
 Minimum reccommended altitude for access lane is FL28
 
 

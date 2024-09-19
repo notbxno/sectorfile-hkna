@@ -1,0 +1,69 @@
+===== HKUK Approach =====
+
+==== VFR Markers ====
+* TIWI marker - A school, Bongwe Primary to the north east of Mwakola Dam approximately 4NM to the airport.(Wide right base RWY19) (coordinates 04°1647.030S 0393249.770E)
+* PENGO marker - A school, Mwamanga Primary school, approximately 7nm to the south east of Kinango town /7.9NM to the south west of Kwale town (coordinates 041401.220S 0392308.740E)
+* LANZE marker - A sparse residential area, near the town of Kifyonzo (coordinates 041145.660 S0391450.370E) - **NOTE: LANZE marker is only available when HKR11 is not active**
+
+==== Arrivals Procedures ====
+
+**IFR arrivals in IMC**
+- RADAR is required
+- MDA is 500ft without visual reference
+
+Procedure 1:  
+Proceed direct HKUK, descending FL40 or as advised by ATC and report Diani Airport in sight or in VMC
+
+Procedure 2:  
+Proceed direct HKUK, descend 2600ft and report VMC or when visually breaking of the clouds then enter wide right base for Runway 19 or straight-in final for Runway 19. 
+In the case no visual contact has been established, make a climbing LEFT turn direct MOV VOR FL30 and hold or as further instructed by ATC or contact Mombasa Radar.
+
+**IFR arrivals in VMC**
+- RADAR is required
+
+Procedure 1:
+Proceed direct HKUK, descend 2600ft until reporting VMC and handed off to Diani Tower from Mombasa Radar. 
+Proceed to wide right base for Runway 19
+
+Procedure 2:
+Proceed direct HKUK, descend 2600ft until reporting Diani Airport in sight. 
+When Diani Airport is in sight, at 4NM for the airport, descend 2400ft at a rate of -300ft/min to avoid terrain. 
+Further descent to 1500ft or applicable pattern altitude will be sequenced by Diani Tower.
+
+NOTE: Descending below 500ft without any visual reference is prohibited and requires an immediate missed approach with a climbing LEFT turn to the MOV VOR, holding as published at FL30.
+
+**VFR Arrivals**
+VFR access lane:
+Proceed directly towards, PENGO maintaining FL30 and intercept the access lane towards TIWI and enter the traffic pattern for the runway in use.
+
+
+==== Approach Procedures ====
+^ Rwy  ^ Approach ^ Frequency ^ Course ^ GP Angle ^ IAF ^ Platform ^ Remarks ^
+| 19 | VISUAL | - | 003º | 3.00º | PATTERN / STRAIGHT-IN(3DME) | 1500 ft (turbine) / 1000ft(piston) / 500ft(helicopters) | Preffered runway, feeder route from VFR/IFR arrival |
+| 01 | VISUAL | - | 183º | 3.00º | PATTERN | 1500 ft (turbine) / 1000ft(piston) / 500ft(helicopters) | - |
+
+
+==== Holds ====
+^ Name  ^ ILS Approach ^ Altitude ^ Speed (IAS)   ^ Inbound CRS ^ Turn ^ Remarks ^
+| MOV | IFR MISS	ED ARRIVAL | FL30 | 230 KT | 030º | Right | Missed Arrival incase Diani Airport is not in sight |
+
+==== Missed Approach Procedures ====
+
+^ Rwy   ^ Approach ^ Missed Approach Procedure ^ Hold ^ Remarks ^
+| 01 | VISUAL | Climb on RWY heading 1000ft, then turn left to join traffic pattern | -	 | - |
+| 19 | VISUAL | Climb on RWY heading 1000ft, then turn right to join traffic pattern | - | - |
+
+
+
+==== MSA and MRVA ====
+The assumed MSA is 2600ft
+
+==== Diversions ====
+	
+^ ICAO ^ Name ^ Distance  ^ Longest Rwy ^ Remarks ^ 
+| HTZA	 | Abeid Amani Karume International Airport | 117 nm | 3007m | - |
+| HKMO | Moi International Airport | 15nm | 3350m | - |
+| HKJK | Jomo Kenyatta International Airport | 238nm | 4200m | - |
+| HTKJ | Kilimanjaro International Airport | 158nm | 3600m | - |
+
+{{page>hk-footer#HKUK}}
