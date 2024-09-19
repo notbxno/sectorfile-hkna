@@ -13,12 +13,12 @@ The HKNA FIR covers the entirety of Kenya's borders.
 
 ## Countries & Territories
 
-- Kenya
+- [Kenya}(https://eaip.vatssa.com/country/kenya/home)
 
 ## Key Airports
 
-- HKJK |
-- HKMO |
+- [HKJK](https://eaip.vatssa.com/airport/hkjk/home) | Nairobi, Kenya
+- [HKMO](https://eaip.vatssa.com/airport/hkjk/home) | Mombasa, Kenya
 
 ## How to Contribute
 
