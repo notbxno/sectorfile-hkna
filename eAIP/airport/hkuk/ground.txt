@@ -28,35 +28,14 @@ CALLSIGN, push-back approved, facing DIRECTION.
 | Terminal | - |
 | Apron | - |
 
-<code>Information needs to be updated from HKMO to HKUK</code>
 
 ^ Terminal ^ ICAO ^ Airline ^ Preferred Terminal ^ Remarks ^
-| ::: | AFR | Air France | 1 | - |
-| ::: | CSN | China Southern | ANY | - |
-| ::: | KQA | Kenya Airways | ANY | International Only |
-| ::: | KLM | KLM Royal Dutch Airlines | ANY | - |
-| ::: | N/A | Other SkyTeam Airlines | ANY | - |
-| ::: | ATC | Air Tanzania | ANY | - |
-| ::: | BAW | British Airways | 3 | - |
-| ::: | ETH | Ethopian Airlines | 2| - |
-| ::: | QTR | Qatar Airways | 1 | - |
-| ::: | SAA | South African Airways | ANY | - |
-| ::: | SWR | Swiss International Air Lines | ANY | - |
-| ::: | UGD | Uganda Airlines | ANY | - |
-| ::: | N/A | Other Oneworld Airlines | ANY | - |
-| ::: | UAE | Emirates | ANY | - |
-| ::: | ETD | Etihad Airways | ANY | - |
-| ::: | DLH | Lufthansa | ANY | - |
-| ::: | MWI | Malawian Airlines | ANY  | - |
-| ::: | RWD | RwandAir | ANY | - |
-| ::: | THY | Turkish Airlines | ANY  | - |
-| ::: | N/A | Other Star Alliance Airlines | ANY | - |
-| Terminal 2 | JMA | Jambojet | ANY | - |
-| ::: | KQA | Kenya Airways | ANY | Domestic Only |
-| ::: | AXK | African Express Airways | ANY | - |
-| ::: | DAO | Daallo Airlines | ANY | - |
-| ::: | FFV | Fly540 | ANY | - |
-| ::: | JBW | Jubba Airways | ANY | - |
-| ::: | PRF | Precision Air | ANY | - |
+| ::: | JMA | Jambojet | ANY | - |
+| ::: | RRV | Mombasa Air Safari | ANY | - |
+| ::: | XLK | Safarilink | ANY | - |
+| ::: | SEW | Skyward Express | ANY | - |
+
+
+
 
 {{page>hk-footer#HKUK}}
