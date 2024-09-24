@@ -41,7 +41,7 @@ More information available at [[https://en.wikipedia.org/wiki/Ukunda_Airport|Wik
   * //This section might require further review due to the proximity of HKNW and HKRE.//
 
 ^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
-| Diani ATZ   | D     | HKUK_TWR | GND - 2000 | - |
+| Diani ATZ   | D     | HKUK_TWR | GND - 2000 | Also controls VFR access lanes |
 | Mombasa TMA   | E     | HKMO_APP | 1500 - FL145  | - |
 | Nairobi FIR/UIR     | A     | HKNA_CTR | FL145 - UNL    | - |
 
