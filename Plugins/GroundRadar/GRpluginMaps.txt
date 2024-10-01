@@ -390,7 +390,7 @@ COLOR:REDP
 // ##################################################################
 
 ////////////// HKMO GROUND //////////////
-MAP:HKMO Taxiway M
+MAP:HKMO Taxiway M Text
 FOLDER:HKMO
 ACTIVE:1
 COLOR:WHITE
