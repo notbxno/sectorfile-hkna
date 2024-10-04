@@ -25,8 +25,8 @@ More information available at [[https://en.wikipedia.org/wiki/Ukunda_Airport|Wik
 ==== Aprons ====
 
 ^ Apron     ^ Type              ^ Entry / Exit  ^ Remarks ^
-| Terminal 1   | Main Terminal / International  | Entry through first right-hand taxiway on Runway 01 side, second left-hand taxiway on Runway 19 side | - |
-| Apron | General Aviation | Entry through first left-hand taxiway on Runway 19 side, second right-hand taxiway on Runway 01 side | - |
+| Terminal 1   | Main Terminal / International  | Entry through first right-hand taxiway on the southern side, second left-hand taxiway on the northern side | - |
+| Apron | General Aviation | Entry through first left-hand taxiway on the northern side, second right-hand taxiway on the southern side | - |
 
 
 ==== Positions & Frequencies ====
