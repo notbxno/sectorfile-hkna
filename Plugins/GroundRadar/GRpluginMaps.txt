@@ -393,8 +393,10 @@ COLOR:REDP
 MAP:HKMO Taxiway M Text
 FOLDER:HKMO
 ACTIVE:1
-COLOR:WHITE
-TEXT:S004.01.49.420:E039.36.07.172:M
+COLOR:RMK
+TEXT:S004.01.59.405:E039.35.54.693:M
+
+
 
 
 // ##################################################################
