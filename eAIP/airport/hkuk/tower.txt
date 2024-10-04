@@ -8,8 +8,8 @@
 
   * Runway changes must be coordinate with existing DEL, GND, TWR, DEP and APP controllers.
   * If possible, hold aircraft on stand before a runway change operation.
-  * If an aircraft is already taxing on Twy A, offer the pilot the option to use the existing active Rwy or to enter the runway for taxiway direction change.
-  * If an aircraft as already passed an approach IAF fix, an APP or TWR controller should advise the pilot of the possibility of a runway change prior to the aircraft being on the final approach segment.
+  * If an aircraft is already taxing on on of the apron or terminal taxiways, offer the pilot the option to use the existing active Rwy or to enter the runway for taxiway direction change.
+  * If an aircraft as already passed an approach IAF(final turn on pattern or right wide base) fix, an APP or TWR controller should advise the pilot of the possibility of a runway change prior to the aircraft being on the final approach segment.
 
 ==== Wake Separation ====
 
