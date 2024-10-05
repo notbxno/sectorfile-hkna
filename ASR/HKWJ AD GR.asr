@@ -3,8 +3,6 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Geo:HKJK Groundlayout:
-Regions:HKJK Groundlayout:polygon
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -16,12 +14,12 @@ HISTORY_DOTS:5
 SIMULATION_MODE:2
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:36.00000
-TAGFAMILY:VATSSA TopSky
-WINDOWAREA:0.394243:35.211064:0.409712:35.239272
-PLUGIN:Ground Radar plugin:AirportElevation:6945
+DisplayRotation:125.00000
+TAGFAMILY:VATSSA Topsky
+WINDOWAREA:1.721017:40.069141:1.745186:40.113350
+PLUGIN:Ground Radar plugin:AirportElevation:758
 PLUGIN:Ground Radar plugin:AirportRadius:3
-PLUGIN:Ground Radar plugin:GroundMode:HKJK
+PLUGIN:Ground Radar plugin:GroundMode:HKWJ
 PLUGIN:TopSky plugin:HideMapData:ICAO
 PLUGIN:TopSky plugin:NoDraw:1
-PLUGIN:TopSky plugin:ShowMapData:HKJK
+PLUGIN:TopSky plugin:ShowMapData:HKWJ
