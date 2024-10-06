@@ -17,7 +17,7 @@ DISABLEZOOMING:0
 DisplayRotation:124.00000
 TAGFAMILY:VATSSA TopSky
 WINDOWAREA:1.721017:40.069141:1.745186:40.113350
-PLUGIN:Ground Radar plugin:AirportElevation:758
+PLUGIN:Ground Radar plugin:AirportElevation:757
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:HKWJ
 PLUGIN:TopSky plugin:HideMapData:ICAO
