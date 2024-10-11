@@ -42,7 +42,7 @@ At this point the aircraft must be handed to tower so that the tower controller 
 
 * Kenyan Airspace operates with the following RVSM standard table of Cruising Levels.
 
-{{page>icao-cruiselevels#RVSM Feet}}
+{{page>icao:cruise-levels#RVSM Feet}}
 
 ==== SID Selection ====
 
