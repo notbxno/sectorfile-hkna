@@ -1,0 +1,11 @@
+===== HKUK Departure =====
+
+  * HKUK doesn't have a dedicated Departure Position, with Mombasa Radar (HKMO_APP) assuming the role of Departure.
+
+  * Hovewer, any departures or arrivals using the VFR lanes are controlled by Diani Tower (HKUK_TWR)
+
+==== Departure Procedures ====
+
+  * All aircraft are required to fly the assigned VFR departure or follow the VFR to IFR conversion given by ATC. Controllers may issue continuous climb instructions to FL145.
+
+{{page>hk-footer#HKUK}}
