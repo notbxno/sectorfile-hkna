@@ -1,0 +1,49 @@
+===== HKUK About =====
+
+**Diani Airport** (IATA: UKA, ICAO: HKUK) is a small airfield near Diani Beach in Kwale County, Kenya. The airport serves the local areas of Diani, Ukunda, Tiwi and Msambweni
+
+
+More information available at [[https://en.wikipedia.org/wiki/Ukunda_Airport|Wikipedia]].
+
+==== Aerodrome Data ====
+
+| ICAO                  | HKUK |
+| IATA                  | UKA |
+| Elevation             | 53ft (at ARP point) |
+| Transition Altitude   | 2000 ft |
+| Transition Level      | None Available |
+| Mag Variation         | 1.2º W |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Ukunda_Airport&params=4_17_49_S_39_34_17_E_region:KE_type:airport]] |
+| Site | [[http://kaa.go.ke/]] |
+
+==== Runways ====
+
+^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Slope  ^ Remarks ^
+| 01     | 003º    | 1160     | 1160     | 1160     | 1160    | -0.28%  | - |
+| 19     | 183º    | 1160     | 1160     | 1160     | 1160    | 0.28% | - |
+
+==== Aprons ====
+
+^ Apron     ^ Type              ^ Entry / Exit  ^ Remarks ^
+| Terminal 1   | Main Terminal / International  | Entry through first right-hand taxiway on the southern side, second left-hand taxiway on the northern side | - |
+| Apron | General Aviation | Entry through first left-hand taxiway on the northern side, second right-hand taxiway on the southern side | - |
+
+
+==== Positions & Frequencies ====
+
+^ Position  ^ Callsign          ^ Frequency ^ Remarks ^
+| HKUK_TWR | Diani Tower        | 118.95   | - |
+| HKMO_APP  | Mombasa Radar | 122.700 | - |
+| HKNA_CTR  | Nairobi Control     | 121.300 | - |
+
+==== Airspace ====
+
+  * //This section might require further review due to the proximity of HKNW and HKRE.//
+
+^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Diani ATZ   | D     | HKUK_TWR | GND - 2000 | Also controls VFR access lanes |
+| Mombasa TMA   | E     | HKMO_APP | 1500 - FL145  | - |
+| Nairobi FIR/UIR     | A     | HKNA_CTR | FL145 - UNL    | - |
+
+
+{{page>hk-footer#HKUK}}

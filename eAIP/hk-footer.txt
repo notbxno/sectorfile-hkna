@@ -20,3 +20,9 @@
 ----
 
 [[airport:hkmo:home|HKMO]] Moi Intl | v0.1
+
+==== HKUK ====
+
+----
+
+[[airport:hkuk:home|HKUK]] Moi Intl | v0.1
