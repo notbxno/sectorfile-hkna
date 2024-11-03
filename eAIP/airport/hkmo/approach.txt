@@ -21,23 +21,22 @@
 | ::: | UVOKO | UVOKO3A | ::: | 62nm | ::: | ::: | - |
 
 ==== Approach Procedures ====
-<code>To be checked again </code>
 
 ^ Rwy  ^ Approach ^ Frequency ^ Course ^ GP Angle ^ IAF ^ Platform ^ Remarks ^
-| 06 | VOR DME | 112.30 MOV | 030º | 3.00º* | 13.0 DME | 2400 ft | - |
-| ::: | RNAV | - | 030º | 3.00º* | ???* | 2700ft | - |
-| 21 | VOR DME | 112.30 MOV | 210º | 3.00º | 5.0 DME | 3200ft | - |
-| ::: | ILS | 110.10 MI | 210º | 3.00º | 6.3 DME MI | 2190ft* | - |
-| ::: | RNAV | - | 210º | 3.17º | ???* | 2500ft | - |
+| 03 | VOR DME | 112.30 MOV | 030º | 2.86º | 13.0 DME MOV | 2400 ft | - |
+| ::: | RNAV | - | 030º | 3.20º | 19.3 DME | 2700ft | - |
+| 21 | VOR DME | 112.30 MOV | 210º | 3.00º | 5.0 DME MOV | 3200ft | - |
+| ::: | ILS | 110.10 MI | 210º | 3.00º | 6.3 DME MI(GP) | 2190ft | - |
+| ::: | RNAV | - | 210º | 3.20º | 18.7 DME | 2500ft | - |
 
 ==== Holds ====
-<code> This section needs updating to HKMO's from HKJK. </code>
 
 ^ Name  ^ ILS Approach ^ Altitude ^ Speed (IAS)   ^ Inbound CRS ^ Turn ^ Remarks ^
-| GV | ILS / RNP | FL100 | 230 KT | 106º | Right | RWY06 |
-| ::: | ILS W | ::: | ::: | 129º | ::: | ::: |
-| NV | - | FL100 | ::: | 233º | Right |  - |
-| STONY | - | 9000ft | 230 KT | 287º | Left | - |
+| MOV | VOR DME | FL040 | 230 KT | 210º | Left | RWY03 |
+| ::: | VOR DME | ::: | ::: | 030º | Right | RWY21 |
+| ::: | ILS | ::: | ::: | ::: | ::: | ::: |
+| EPNEX | RNAV | ::: | ::: | 300º | Left | RWY03 |
+| EGMUK | RNAV | ::: | ::: | ::: | Right | RWY21 |
 
 ==== Missed Approach Procedures ====
 
@@ -51,23 +50,20 @@
 
 
 ==== MSA and MRVA ====
-<code> This section needs updating to HKMO's from HKJK. </code>
 
 ^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
-| NV | 0 nm  | 25 nm | 090º | 180º | 9600 ft | - |
-| ::: | 0 nm  | 25 nm | 180º | 270º | 8100 ft | - |
-| ::: | 0 nm  | 25 nm | 270º | 360º | 8000 ft | - |
-| ::: | 0 nm  | 25 nm | 360º | 090º | 9100 ft | - |
+| MOV | 0 nm  | 25 nm | 090º | 180º | 2600 ft | - |
+| ::: | 0 nm  | 25 nm | 180º | 270º | 2600 ft | - |
+| ::: | 0 nm  | 25 nm | 270º | 360º | 2600 ft | - |
+| ::: | 0 nm  | 25 nm | 360º | 090º | 2600 ft | - |
 
 
 ==== Diversions ====
-<code> This section needs updating to HKMO's from HKJK. </code>
 
 ^ ICAO ^ Name ^ Distance  ^ Longest Rwy ^ Remarks ^ 
-| HKNW | Wilson Airport | 8 nm | 1560m | - |
-| HKMO | Moi International Airport | 262nm | 3350m | - |
-| HKKI | Kisumu International Airport | 174nm | 3300m | - |
-| HKEL | Eldoret International Airport | 167nm | 3475m | - |
-| HTKJ | Kilimanjaro International Airport | 145nm | 3600m | - |
+| HTZA	 | Abeid Amani Karume International Airport | 133 nm | 3007m | - |
+| HTDA | Julius Nyerere International Airport | 171nm | 3000m | - |
+| HKJK | Jomo Kenyatta International Airport | 227nm | 4200m | - |
+| HTKJ | Kilimanjaro International Airport | 155nm | 3600m | - |
 
 {{page>hk-footer#HKMO}}
