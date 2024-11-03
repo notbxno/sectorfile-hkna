@@ -1,73 +1,24 @@
 ===== HKMO Approach =====
 
 ==== Arrivals Procedures ====
-<code> This section needs updating to HKMO's from HKJK. </code>
 
 ^ Rwy   ^ Fix   ^ Arrival   ^ Type          ^ Track Miles   ^ Approach ^ ILS Transition ^ Remarks ^
-| 06    | APLOG | APLOG1A    | Conventional  | 98 nm         | ILS / RNAV via GEREB | JOMOK2B | - |
-| ::: | ::: | APLOG1P | ::: | 106nm | ILS / RNAV via IBRAT | ::: | - |
-| ::: | EVATO | EVATO2P | ::: | 53nm | ::: | ::: | - |
-| ::: | EVOGO | EVOGO1A | ::: | 181nm | RNAV via TEVOX | - | - |
-| ::: | ::: | EVOGO1P | ::: | 179nm | ILS / RNAV via APNOM | JOMOK2C | - |
-| ::: | GABSO | GABSO2P | ::: | 92nm | ::: | ::: | - |
-| ::: | ::: | GABSO3A | ::: | 80nm | RNAV via TEVOX | - |
-| ::: | IBKAS | IKBAS1A | ::: | 44nm | RNAV via IBRAT | - | - |
-| ::: | IBROM | IBROM1A | ::: | 199nm | RNAV via APNOM | - | - |
-| ::: | IBROM | IBROM1P | ::: | 198nm | ILS / RNAV via APNOM | JOMOK2C | - |
-| ::: | KAMAS | KAMAS1A | ::: | 180nm | RNAV via TIBET | - | - |
-| ::: | ::: | KAMAS1P | ::: | 186nm | ILS / ILS W / RNAV via NGONG (GV) | JOMOK2A | 115.9 GV |
-| ::: | KIMET | KIMET1A | ::: | 157nm | RNAV via TIBET | - | - |
-| ::: | ::: | KIMET1P | ::: | 165nm | ILS / ILS W / RNAV via NGONG (GV) | JOMOK2A | 115.9 GV |
-| ::: | NAK | LANET1A | ::: | 64nm | RNAV via TIBET | - | 115.1 NAK |
-| ::: | LOSIN | LOSIN3A | ::: | 96nm | RNAV via GEREB | - | - |
-| ::: | LOTAS | LOTAS2P | ::: | 144nm | ILS / ILS W / RNAV via NGONG (GV) | JOMOK2A | 115.9 GV |
-| ::: | ::: | LOTAS3A | ::: | 141nm | RNAV via TIBET | - | - |
-| ::: | MAGAD | MAGAD1A | ::: | 42nm | RNAV via GEREB | - | - |
-| ::: | NAK | NAK2P | ::: | 72nm | ILS / ILS W / RNAV via NGONG (GV) | JOMOK2A | 115.1 NAK / 115.9 GV |
-| ::: | NAKAT | NAKAT2P | ::: | 83nm | ::: | ::: | ::: |
-| ::: | ::: | NAKAT4A | ::: | 68nm | RNAV via TIBET | - | - |
-| ::: | NORVU | NORVU1A | ::: | 176nm | RNAV via TEBOX | - | - |
-| ::: | ::: | NORVU1P | ::: | 180nm | ILS / RNAV via APNOM | JOMOK2C | - |
-| ::: | PARIN | PARIN2P | ::: | 81nm | ILS / RNAV via IBRAT | JOMOK2B | - |
-| ::: | ::: | PARIN3A | ::: | 72nm | RNAV via GEREB | - | - |
-| ::: | UTATA | UTATA2P | ::: | 72nm | ILS / RNAV via APNOM | JOMOK2C | - |
-| ::: | ::: | UTATA3A | ::: | 57nm | RNAV via TEVOX | - | - |
-| ::: | UTEPI | UTEPI1A | ::: | 38nm | ::: | - | - | 
-| ::: | WAV | WAJIR1A | ::: | 276nm | RNAV via APNOM | - | - |
-| ::: | ::: | WAJIR1P | ::: | 276nm | ILS / RNAV via APNOM | JOMOK2C | - |
-| ::: | XAGIT | XAGIT1A | ::: | 37nm | RNAV via IBRAT | - | - |
-| 24 | APLOG | APLOG1R | ::: | 135nm | RNAV via AVENA | - | - |
-| ::: | ::: | APLOG4C | ::: | 140nm | ::: | - | - |
-| ::: | EVATO | EVATO2R | ::: | 77nm | RNAV via ATUDU | ::: | - |
-| ::: | ::: | EVATO4B | ::: | 76nm | ::: | - | - |
-| ::: | EVOGO | EVOGO1R | ::: | 162nm | RNAV via APDUS | - | - |
-| ::: | ::: | EVOGO2C | ::: | 162nm | RNAV via ATUDU | - | - |
-| ::: | GABSO | GABSO2R | ::: | 97nm | ::: | - | - |
-| ::: | ::: | GABSO4C | ::: | 98nm | ::: | - | - |
-| ::: | IKBAS | IKBAS1B | ::: | 60nm | RNAV via AVENA | - | - |
-| ::: | IBROM | IBROM1R | ::: | 171nm | RNAV via APDUS | - | - |
-| ::: | ::: | IBROM2C | ::: | 163nm | ::: | - | - |
-| ::: | KAMAS | KAMAS1R | ::: | 156nm | RNAV via AVENA | - | - |
-| ::: | ::: | KAMAS2D | ::: | 180nm | ::: | - | - |
-| ::: | KIMET | KIMET1R | ::: | 164nm | ::: | - | - |
-| ::: | ::: | KIMET2D | ::: | 167nm | ::: | - | - |
-| ::: | NAK | LANET2C | ::: | 78nm | ::: | - | 115.1 NAK |
-| ::: | LOTAS | LOTAS2R | ::: | 131nm | ::: | - | - |
-| ::: | ::: | LOTAS4D | ::: | 132nm | ::: | - | - |
-| ::: | MAGAD | MAGAD2C | ::: | 82nm | RNAV via ATUDU | - | - |
-| ::: | NAK | NAK2R | ::: | 53nm | RNAV via AVENA | - | - |
-| ::: | NAKAT | NAKAT2R | ::: | 85nm | ::: | - | - |
-| ::: | ::: | NAKAT3C | ::: | 105nm | ::: | - | - |
-| ::: | NORVU | NORVU1R | ::: | 174nm | RNAV via APDUS | - | - |
-| ::: | ::: | NORVU2C | ::: | 170nm | RNAV via ATUDU | - | - |
-| ::: | OKRIT | OKRIT1C | ::: | 25nm | RNAV via APDUS | - | - |
-| ::: | PARIN | PARIN2B | ::: | 117nm | RNAV via ATUDU | - | 115.5 TV |
-| ::: | ::: | PARIN4C | ::: | 115nm | ::: | - | ::: |
-| ::: | UTATA | UTATA2R | ::: | 84nm | ::: | - | - |
-| ::: | ::: | UTATA4C | ::: | 86nm | ::: | - | 115.5 TV |
-| ::: | UTEPI | UTEPI2C | ::: | 47nm | ::: | - | - |
-| ::: | WAV | WAJIR1R | ::: | 245nm | RNAV via APDUS | - | 112.5 WAV |
-| ::: | XAGIT | XAGIT1B | ::: | 70nm | RNAV via AVENA | - | - |
+| 03    | GADLA | GADLA3B    | Conventional  | 54nm         | RNAV VIA GENIL | - | - |
+| ::: | NEREV | NEREV3B | ::: | 58nm | ::: | - | - |
+| ::: | IBNOK | IBNOK3B | ::: | 95nm | ::: | - | - |
+| ::: | MIDNI | MIDNI3B | ::: | 107nm | ::: | - | - |
+| ::: | AVUDU | AVUDU3B | ::: | 110nm | RNAV VIA EPNEX | - | - |
+| ::: | MOBAT | MOBAT3B | ::: | 68nm | ::: | - | - |
+| ::: | MOKAD | MOKAD3B | ::: | 59nm | ::: | - | - |
+| ::: | UVOKO | UVOKO3B | ::: | 23nm | RNAV via EPLAX | - | - |
+| 21 | GADLA | GADLA3A | ::: | 61nm | ILS / RNAV via EGVOM | MOMBA3 | - |
+| ::: | NEREV | NEREV3A | ::: | 44nm | ::: | ::: | - |
+| ::: | IBNOK | IBNOK3A | ::: | 68nm | ILS / RNAV VIA ESPOM | MOMBA2 | - |
+| ::: | MIDNI | MIDNI3A | ::: | 75nm | ::: | ::: | - |
+| ::: | AVUDU | AVUDU3A | ::: | 83nm | ::: | ::: | - |
+| ::: | MOBAT | MOBAT3A | ::: | 51nm | ILS / RNAV VIA EGMUK | MOMBA1 | - |
+| ::: | MOKAD | MOKAD3A | ::: | 63nm | ::: | ::: | - |
+| ::: | UVOKO | UVOKO3A | ::: | 62nm | ::: | ::: | - |
 
 ==== Approach Procedures ====
 <code>To be checked again </code>
