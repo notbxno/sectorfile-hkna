@@ -1,4 +1,4 @@
-===== HKMO Coordination =====
+===== HKUK Coordination =====
 
 ==== HKUK & HKMO ====
 	* HKUK & HKMO share the TMA
@@ -11,4 +11,4 @@
 
   * In the event of HKNW traffic, releases from HKJK should be coordinated with Approach, if online, however in most circumstances, HKJK traffic will be given priority.
 
-{{page>hk-footer#HKMO}}
+{{page>hk-footer#HKUK}}
