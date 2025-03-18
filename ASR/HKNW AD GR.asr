@@ -3,8 +3,6 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Geo:HKNW Groundlayout:
-Regions:HKNW Groundlayout:polygon
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -18,7 +16,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:36.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-1.329821:36.907425:-1.305651:36.951276
+WINDOWAREA:-1.332734:36.796535:-1.308564:36.840745
 PLUGIN:Ground Radar plugin:AirportElevation:5330
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:HKNW
