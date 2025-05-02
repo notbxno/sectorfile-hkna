@@ -2,71 +2,36 @@
 
 ==== Arrivals Procedures ====
 
-^ Rwy   ^ Fix   ^ Arrival   ^ Type          ^ Track Miles   ^ Approach ^ ILS Transition ^ Remarks ^
-| 06    | APLOG | APLOG1A    | Conventional  | 98 nm         | ILS / RNAV via GEREB | JOMOK2B | - |
-| ::: | ::: | APLOG1P | ::: | 106nm | ILS / RNAV via IBRAT | ::: | - |
-| ::: | EVATO | EVATO2P | ::: | 53nm | ::: | ::: | - |
-| ::: | EVOGO | EVOGO1A | ::: | 181nm | RNAV via TEVOX | - | - |
-| ::: | ::: | EVOGO1P | ::: | 179nm | ILS / RNAV via APNOM | JOMOK2C | - |
-| ::: | GABSO | GABSO2P | ::: | 92nm | ::: | ::: | - |
-| ::: | ::: | GABSO3A | ::: | 80nm | RNAV via TEVOX | - |
-| ::: | IBKAS | IKBAS1A | ::: | 44nm | RNAV via IBRAT | - | - |
-| ::: | IBROM | IBROM1A | ::: | 199nm | RNAV via APNOM | - | - |
-| ::: | IBROM | IBROM1P | ::: | 198nm | ILS / RNAV via APNOM | JOMOK2C | - |
-| ::: | KAMAS | KAMAS1A | ::: | 180nm | RNAV via TIBET | - | - |
-| ::: | ::: | KAMAS1P | ::: | 186nm | ILS / ILS W / RNAV via NGONG (GV) | JOMOK2A | 115.9 GV |
-| ::: | KIMET | KIMET1A | ::: | 157nm | RNAV via TIBET | - | - |
-| ::: | ::: | KIMET1P | ::: | 165nm | ILS / ILS W / RNAV via NGONG (GV) | JOMOK2A | 115.9 GV |
-| ::: | NAK | LANET1A | ::: | 64nm | RNAV via TIBET | - | 115.1 NAK |
-| ::: | LOSIN | LOSIN3A | ::: | 96nm | RNAV via GEREB | - | - |
-| ::: | LOTAS | LOTAS2P | ::: | 144nm | ILS / ILS W / RNAV via NGONG (GV) | JOMOK2A | 115.9 GV |
-| ::: | ::: | LOTAS3A | ::: | 141nm | RNAV via TIBET | - | - |
-| ::: | MAGAD | MAGAD1A | ::: | 42nm | RNAV via GEREB | - | - |
-| ::: | NAK | NAK2P | ::: | 72nm | ILS / ILS W / RNAV via NGONG (GV) | JOMOK2A | 115.1 NAK / 115.9 GV |
-| ::: | NAKAT | NAKAT2P | ::: | 83nm | ::: | ::: | ::: |
-| ::: | ::: | NAKAT4A | ::: | 68nm | RNAV via TIBET | - | - |
-| ::: | NORVU | NORVU1A | ::: | 176nm | RNAV via TEBOX | - | - |
-| ::: | ::: | NORVU1P | ::: | 180nm | ILS / RNAV via APNOM | JOMOK2C | - |
-| ::: | PARIN | PARIN2P | ::: | 81nm | ILS / RNAV via IBRAT | JOMOK2B | - |
-| ::: | ::: | PARIN3A | ::: | 72nm | RNAV via GEREB | - | - |
-| ::: | UTATA | UTATA2P | ::: | 72nm | ILS / RNAV via APNOM | JOMOK2C | - |
-| ::: | ::: | UTATA3A | ::: | 57nm | RNAV via TEVOX | - | - |
-| ::: | UTEPI | UTEPI1A | ::: | 38nm | ::: | - | - | 
-| ::: | WAV | WAJIR1A | ::: | 276nm | RNAV via APNOM | - | - |
-| ::: | ::: | WAJIR1P | ::: | 276nm | ILS / RNAV via APNOM | JOMOK2C | - |
-| ::: | XAGIT | XAGIT1A | ::: | 37nm | RNAV via IBRAT | - | - |
-| 24 | APLOG | APLOG1R | ::: | 135nm | RNAV via AVENA | - | - |
-| ::: | ::: | APLOG4C | ::: | 140nm | ::: | - | - |
-| ::: | EVATO | EVATO2R | ::: | 77nm | RNAV via ATUDU | ::: | - |
-| ::: | ::: | EVATO4B | ::: | 76nm | ::: | - | - |
-| ::: | EVOGO | EVOGO1R | ::: | 162nm | RNAV via APDUS | - | - |
-| ::: | ::: | EVOGO2C | ::: | 162nm | RNAV via ATUDU | - | - |
-| ::: | GABSO | GABSO2R | ::: | 97nm | ::: | - | - |
-| ::: | ::: | GABSO4C | ::: | 98nm | ::: | - | - |
-| ::: | IKBAS | IKBAS1B | ::: | 60nm | RNAV via AVENA | - | - |
-| ::: | IBROM | IBROM1R | ::: | 171nm | RNAV via APDUS | - | - |
-| ::: | ::: | IBROM2C | ::: | 163nm | ::: | - | - |
-| ::: | KAMAS | KAMAS1R | ::: | 156nm | RNAV via AVENA | - | - |
-| ::: | ::: | KAMAS2D | ::: | 180nm | ::: | - | - |
-| ::: | KIMET | KIMET1R | ::: | 164nm | ::: | - | - |
-| ::: | ::: | KIMET2D | ::: | 167nm | ::: | - | - |
-| ::: | NAK | LANET2C | ::: | 78nm | ::: | - | 115.1 NAK |
-| ::: | LOTAS | LOTAS2R | ::: | 131nm | ::: | - | - |
-| ::: | ::: | LOTAS4D | ::: | 132nm | ::: | - | - |
-| ::: | MAGAD | MAGAD2C | ::: | 82nm | RNAV via ATUDU | - | - |
-| ::: | NAK | NAK2R | ::: | 53nm | RNAV via AVENA | - | - |
-| ::: | NAKAT | NAKAT2R | ::: | 85nm | ::: | - | - |
-| ::: | ::: | NAKAT3C | ::: | 105nm | ::: | - | - |
-| ::: | NORVU | NORVU1R | ::: | 174nm | RNAV via APDUS | - | - |
-| ::: | ::: | NORVU2C | ::: | 170nm | RNAV via ATUDU | - | - |
-| ::: | OKRIT | OKRIT1C | ::: | 25nm | RNAV via APDUS | - | - |
-| ::: | PARIN | PARIN2B | ::: | 117nm | RNAV via ATUDU | - | 115.5 TV |
-| ::: | ::: | PARIN4C | ::: | 115nm | ::: | - | ::: |
-| ::: | UTATA | UTATA2R | ::: | 84nm | ::: | - | - |
-| ::: | ::: | UTATA4C | ::: | 86nm | ::: | - | 115.5 TV |
-| ::: | UTEPI | UTEPI2C | ::: | 47nm | ::: | - | - |
-| ::: | WAV | WAJIR1R | ::: | 245nm | RNAV via APDUS | - | 112.5 WAV |
-| ::: | XAGIT | XAGIT1B | ::: | 70nm | RNAV via AVENA | - | - |
+**VFR Arrivals**
+
+**West Arrival**
+Flights from the West of Wilson Airport shall fly via WHISKY 3 (01 19’ 46’’ S 036 20’ 25’’E) then on a 086°M to “WHISKY 2” position
+(01 19’ 14.820’’ S 036 31’ 52.585’’ E) then on a 086°M to overhead “WHISKY 1” (KBC) position (01 19’ 46’’ S 036 40’ 29’’ E) then on
+a 108°M to the Monastery for Nairobi Wilson.
+Note 1: Pilots are expected to maintain VFR below FL100 between WHISKY 3 and WHISKY 2.
+Note 2: Flights are expected to be at 7500feet when overhead KBC due to proliferation of communication masts.
+
+
+**South West Arrival**
+Flights from the South West of Wilson Airport shall fly via CORNER BARIDI position (01 28 43.900S 036 39 26.520E) at 7500ft
+then on a 045°M to ONGATA RONGAI (OR001) position (01 23 36.540S 036 44 38.170E) then Monastery for Nairobi Wilson.
+Aircrafts cleared to proceed to KBC from ONGATA RONGAI due to traffic for long finals to maintain 7500ft to avoid proliferation of
+communication masts.
+
+**North West Arrival**
+Flights from the North West of Wilson Airport shall fly via Kĳabe checking the zone boundary at position (01 15’ 26.540’’ S 036 37’
+51.859’’ E) then fly on 152°M to “MIKE 1” at Gikambura Dam position (01 17’ 11.710’’ S 036 38’ 44.170’’ E), then 131°M to overhead
+KBC position (01 18’ 46’’ S 036 40’ 29’’ E) followed by a 108°M, for the Monastery position (01 20’ 30.230’’ S 036 45’ 33.350’’ E and a
+069°M for Nairobi Wilson.
+Aircrafts cleared to proceed to KBC from “MIKE 1” due to traffic should climb to 7500ft to avoid proliferation of communication masts.
+
+**North Arrival**
+All aircrafts from the North of Wilson Airport route via NDAKAINI position 00 49’ 14.770’’S 036 50’ 18.500’’ E report at the zone
+boundary at “November 2”(NTW02) position (01 06’ 20.415’’ S 036 44’ 36.368’’ E) while on 197°M to LORESHO (Water Towers)
+position 01 13’ 43.211’’ S 036 42’ 08.997’’ E then to “MIKE 1” at Gikambura Dam position 01 17’ 11.710’’ S 036 38’ 44.170’’ E on a
+224°M then, KBC 131°M or if traffic permits direct to Monastery on 152°M to Wilson Airport.
+Aircrafts cleared to proceed to KBC from Gikambura Dam, due to traffic should climb to 7500ft to avoid proliferation of communication
+masts
 
 ==== Approach Procedures ====
 
