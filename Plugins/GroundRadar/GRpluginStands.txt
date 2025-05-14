@@ -655,8 +655,61 @@ WTC:SM
 BLOCKS:9
 
 // ##################################################################
+//                 HKNW Wilson
+// ##################################################################
+
+// HKNW Stands
+// Stand Remote Apron E
+STAND:HKNW:Remote Apron E:S001.19.31.689:E036.48.43.538:30
+WTC:M
+USE:ABCP
+AREA
+
+// Stand Bluebird
+STAND:HKNW:Bluebird:S001.19.11.795:E036.49.7.067:30
+WTC:M
+USE:ABCP
+AREA
+
+// Stand Apron 1
+STAND:HKNW:Apron 1:S001.19.10.045:E036.48.56.998:30
+WTC:M
+USE:ABCP
+AREA
+
+// Stand Apron 2
+STAND:HKNW:Apron 2:S001.19.8.221:E036.48.48.705:30
+WTC:M
+USE:ABCP
+AREA
+
+// Stand Apron 3
+STAND:HKNW:Apron 3:S001.19.15.634:E036.48.37.281:30
+WTC:M
+USE:ABCP
+AREA
+
+// Stand Remote Apron B
+STAND:HKNW:Remote Apron B:S001.19.16.059:E036.48.41.908:30
+WTC:M
+USE:ABCP
+AREA
+
+// Stand Apron 4
+STAND:HKNW:Apron 4:S001.19.25.075:E036.48.21.661:30
+WTC:M
+USE:ABCP
+AREA
+
+// Stand Heli 1
+STAND:HKNW:Heli 1:S001.19.28.284:E036.48.19.323:30
+WTC:M
+USE:H
+
+// ##################################################################
 //                 HKML Malindi
 // ##################################################################
+
 // Stand 1
 STAND:HKML:1:S003.13.49.407:E040.06.2.004:30
 WTC:M
