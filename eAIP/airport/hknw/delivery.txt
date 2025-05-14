@@ -1,6 +1,6 @@
-===== HKJK Delivery =====
+===== HKNW Delivery =====
 
-  * HKJK doesn't have a dedicated Delivery Position, with Nairobi Apron (HKJK_GND) assuming the role of Delivery.
+  * HKNW doesn't have a dedicated Delivery Position, with Wilson Ground (HKNW_GND) assuming the role of Delivery.
 
 ==== Flight Level Restrictions ====
 
@@ -66,53 +66,6 @@ At this point the aircraft must be handed to tower so that the tower controller 
 * Kenyan Airspace operates with the following RVSM standard table of Cruising Levels.
 
 {{page>icao:cruise-levels#RVSM Feet}}
-
-==== SID Selection ====
-Due to the many procedures at HKJK, only the following SIDs should be used during normal operation unless stated otherwise.
-
-(M) = Medium
-(H) = Heavy
-
-Runway 06
-  * APKUB - APKUB1A
-  * APLOG - APLOG2B
-  * EVATO - EVATO1X
-  * EVOGO - ATUDU1DxEVOGO
-  * GABSO - GABSO1Y (H) or GABSO1Z (M)
-  * IBROM - ATUDU1DxIBROM
-  * KAMAS - KAMAS1Y (M) or ETORU1AxKAMAS (H)
-  * KIMET - ETORU1AxKIMET
-  * LOSIN - ATUDU1DxLOSIN
-  * LOTAS - ETORU1AxLOTAS or LOTAS1Z (but not both)
-  * MAGAD - RWY HDG
-  * NAK - LANET2B
-  * NAKAT - NAKAT4B
-  * NORVU - ATUDU1DxNORVU
-  * PARIN - PARIN4B
-  * UTATA - ATUDU1DxUTATA
-  * UTERA - UTERA1A
-  * UVOVA - ATUDU1DxUVOVA
-  * WAV - ATUDU1DxWAV
-Runway 24
-  * APKUB - IBRAT3ExAPKUB
-  * APLOG - IBRAT3ExAPLOG
-  * EVATO - EVATO1U
-  * EVOGO - APNOM2ExEVOGO
-  * GABSO - APNOM2ExGABSO
-  * IBROM - APNOM2ExIBROM
-  * KAMAS - IBRAT3ExKAMAS
-  * KIMET - IBRAT3ExKIMET
-  * LOTAS - IBRAT3ExLOTAS
-  * LOSIN - APNOM2ExLOSIN
-  * MAGAD - IBRAT3ExMAGAD
-  * NAK - IBRAT3ExNAK
-  * NAKAT - IBRAT3ExNAKAT
-  * NORVU - APNOM2ExNORVU
-  * PARIN - IBRAT3ExPARIN
-  * TEVIN - APNOM2ExTEVIN
-  * UTATA - APNOM2ExUTATA
-  * UTERA - IBRAT3ExUTERA
-  * UVOVA - APNOM2ExUVOVA
 
 
 ==== Departure Procedures & Initial Climbs ====

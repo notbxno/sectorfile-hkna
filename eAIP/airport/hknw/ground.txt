@@ -1,10 +1,5 @@
-===== HKJK Ground =====
+===== HKNW Ground =====
 
-==== Latest Updates ====
-
-<note important>
-NOTAM A0243/24 | A PORTION OF TWY K FM THE INT OF TWY G ALL THE WAY TO INT OF APRON TERMINAL 1A (T1A) CLSD.ALL ACFT TAXING IN AND OUT OF TERMINAL 
-</note>
 
 ==== Taxi Procedures ====
 At Nairobi, Apron 1 operates with a one way system in and out, depending on Runway flow.
