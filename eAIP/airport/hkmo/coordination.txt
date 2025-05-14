@@ -1,5 +1,10 @@
 ===== HKMO Coordination =====
 
+==== HKUK & HKMO ====
+	* HKUK & HKMO share the TMA
+	
+	* HKMO Approach is to release aircraft to HKUK Tower for sequencing onto straight-in or patterns
+
 ==== HKJK & HKNW ====
 
   * HKJK Controllers, particularly Tower and Approach, should be mindful of simultaneous operations at HKJK and [[HKNW]]. In most circumstances, most aircraft taking off from HKNW will be taking off to the south, which can cause a conflict for inbound traffic landing on 06. 
