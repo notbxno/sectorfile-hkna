@@ -39,7 +39,7 @@
 
 ^ Position  ^ Callsign          ^ Frequency ^ Remarks ^
 | HKNW_GND  | Wilson Ground   | 121.900     | - |
-| HKJK_TWR  | Nairobi Tower   | 118.100     | - |
+| HKNW_GND  | Wilson Tower    | 118.100     | - |
 | HKJK_APP  | Nairobi Radar   | 122.300     | - |
 | HKNA_CTR  | Nairobi Control | 121.300     | - |
 
