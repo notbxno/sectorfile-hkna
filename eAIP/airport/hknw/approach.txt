@@ -1,71 +1,69 @@
-===== HKJK Approach =====
+===== HKNW Approach =====
 
 ==== Arrivals Procedures ====
 
 **VFR Arrivals**
 
-**West Arrival**
+**West Arrival**  
+
 Flights from the West of Wilson Airport shall fly via WHISKY 3 (01 19’ 46’’ S 036 20’ 25’’E) then on a 086°M to “WHISKY 2” position
 (01 19’ 14.820’’ S 036 31’ 52.585’’ E) then on a 086°M to overhead “WHISKY 1” (KBC) position (01 19’ 46’’ S 036 40’ 29’’ E) then on
-a 108°M to the Monastery for Nairobi Wilson.
-Note 1: Pilots are expected to maintain VFR below FL100 between WHISKY 3 and WHISKY 2.
+a 108°M to the Monastery for Nairobi Wilson.  
+
+Note 1: Pilots are expected to maintain VFR below FL100 between WHISKY 3 and WHISKY 2.  
 Note 2: Flights are expected to be at 7500feet when overhead KBC due to proliferation of communication masts.
 
 
-**South West Arrival**
+**South West Arrival**  
+
 Flights from the South West of Wilson Airport shall fly via CORNER BARIDI position (01 28 43.900S 036 39 26.520E) at 7500ft
-then on a 045°M to ONGATA RONGAI (OR001) position (01 23 36.540S 036 44 38.170E) then Monastery for Nairobi Wilson.
+then on a 045°M to ONGATA RONGAI (OR001) position (01 23 36.540S 036 44 38.170E) then Monastery for Nairobi Wilson.  
+
 Aircrafts cleared to proceed to KBC from ONGATA RONGAI due to traffic for long finals to maintain 7500ft to avoid proliferation of
 communication masts.
 
-**North West Arrival**
+**North West Arrival**  
+
 Flights from the North West of Wilson Airport shall fly via Kĳabe checking the zone boundary at position (01 15’ 26.540’’ S 036 37’
 51.859’’ E) then fly on 152°M to “MIKE 1” at Gikambura Dam position (01 17’ 11.710’’ S 036 38’ 44.170’’ E), then 131°M to overhead
 KBC position (01 18’ 46’’ S 036 40’ 29’’ E) followed by a 108°M, for the Monastery position (01 20’ 30.230’’ S 036 45’ 33.350’’ E and a
-069°M for Nairobi Wilson.
+069°M for Nairobi Wilson.  
+
 Aircrafts cleared to proceed to KBC from “MIKE 1” due to traffic should climb to 7500ft to avoid proliferation of communication masts.
 
-**North Arrival**
+**North Arrival**  
+
 All aircrafts from the North of Wilson Airport route via NDAKAINI position 00 49’ 14.770’’S 036 50’ 18.500’’ E report at the zone
 boundary at “November 2”(NTW02) position (01 06’ 20.415’’ S 036 44’ 36.368’’ E) while on 197°M to LORESHO (Water Towers)
 position 01 13’ 43.211’’ S 036 42’ 08.997’’ E then to “MIKE 1” at Gikambura Dam position 01 17’ 11.710’’ S 036 38’ 44.170’’ E on a
-224°M then, KBC 131°M or if traffic permits direct to Monastery on 152°M to Wilson Airport.
+224°M then, KBC 131°M or if traffic permits direct to Monastery on 152°M to Wilson Airport.  
+
 Aircrafts cleared to proceed to KBC from Gikambura Dam, due to traffic should climb to 7500ft to avoid proliferation of communication
 masts
 
 ==== Approach Procedures ====
 
 ^ Rwy  ^ Approach ^ Frequency ^ Course ^ GP Angle ^ IAF ^ Platform ^ Remarks ^
-| 06 | ILS | 110.30 NL | 053º | 3.00º | 5.4 DME NL | 7100 ft | - |
-| ::: | ILS W | 110.30 NL | 053º | 3.00º | 11.9 DME NL | 9100ft | - |
-| ::: | ILS Y | 110.30 NL | 053º | 3.00º | 9.4 DME NL | 8300ft | - |
-| ::: | ILS Z | 110.30 NL | 053º | 3.00º | 6.9 DME NL | 7500ft | - |
-| ::: | RNP | - | 053º | 3.00º | APNOM, IBRAT or NESOD | 7900ft | - |
-| ::: | VOR DME | 113.10 NV | 053º | 3.00º | 12 DME NV | 8300ft | - |
-| 24 | RNP | - | 233º | 3.00º | APDUS, ATUDU, AVENA | 8100ft | - |
-| ::: | VOR DME | 113.10 NV | 233º | 3.00º | 8 DME NV | 8080ft | - |
+| 07 | VISUAL| - | 069º | 3.00º | "KBC" | 7500 ft | - |
+| 25 | ::: | - | 249º | ::: | ::: | ::: | - |
+| 14 | :::| - | 133º | ::: | ::: | ::: | Pilots making an approach to Runway 14 should cross the area of the forces Memorial Hospital Complex at or above 5900 ft |
+| 32 | :::| - | 313º | ::: | ::: | ::: | - |
 
 ==== Holds ====
 
 ^ Name  ^ ILS Approach ^ Altitude ^ Speed (IAS)   ^ Inbound CRS ^ Turn ^ Remarks ^
-| GV | ILS / RNP | FL100 | 230 KT | 106º | Right | RWY06 |
-| ::: | ILS W | ::: | ::: | 129º | ::: | ::: |
-| NV | - | FL100 | ::: | 233º | Right |  - |
-| STONY | - | 9000ft | 230 KT | 287º | Left | - |
+| GV | - | FL100 | 230 KT | 106º | Right | Authorization Required |
+| STONY | - | 9000ft | 230 KT | 287º | Left | ::: |
 
 ==== Missed Approach Procedures ====
 
+- All runways on HKNW follow right patterns, except for 25 and 32.
+
 ^ Rwy   ^ Approach ^ Missed Approach Procedure ^ Hold ^ Remarks ^
-| 06    | ILS | Climb on Runway Heading to 6000ft or NV VOR, then turn right climbing to 9000ft to the TV VOR and hold, or as directed. | STONY | - |
-| ::: | ILS W | ::: | ::: | - |
-| ::: | ILS Y | ::: | ::: | - |
-| ::: | ILS Z | ::: | ::: | - |
-| ::: | RNP | Proceed direct APDUS climbing to FL100. Passing 8100ft or APDUS, turn right direct to TV VOR and hold, or as directed. | ::: | - |
-| ::: | VOR DME | Climb on Runway Heading to 6000ft or NV VOR, then turn right climbing to 9000ft to the TV VOR and hold, or as directed. | ::: | - |
-| 24 | RNP | Proceed direct IBRAT climbing to FL100. Passing 9100ft or IBRAT, turn left direct to TV VOR and hold, or as directed. | ::: | - |
-| ::: | VOR DME | Climb on R-233 NV to 6000ft or D3.4, then turn left climbing to 9000ft to TV VOR and hold, or as directed. | ::: | - |
-
-
+| 07    | VISUAL | Climb on runway heading and join pattern. | PATTERN | Right-hand |
+| 14    | ::: | ::: | ::: | ::: |
+| 25    | ::: | ::: | ::: | Left-hand |
+| 32    | ::: | ::: | ::: | ::: |
 ==== MSA and MRVA ====
 
 ^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
@@ -78,10 +76,10 @@ masts
 ==== Diversions ====
 
 ^ ICAO ^ Name ^ Distance  ^ Longest Rwy ^ Remarks ^ 
-| HKNW | Wilson Airport | 8 nm | 1560m | - |
-| HKMO | Moi International Airport | 262nm | 3350m | - |
-| HKKI | Kisumu International Airport | 174nm | 3300m | - |
-| HKEL | Eldoret International Airport | 167nm | 3475m | - |
-| HTKJ | Kilimanjaro International Airport | 145nm | 3600m | - |
+| HKJK | Jomo Kenyatta International Airport | 8 nm | 4116m | - |
+| HKMO | Moi International Airport | 243nm | 3350m | - |
+| HKKI | Kisumu International Airport | 147nm | 3300m | - |
+| HKEL | Eldoret International Airport | 143nm | 3475m | - |
+| HTKJ | Kilimanjaro International Airport | 182nm | 3600m | - |
 
-{{page>hk-footer#HKJK}}
+{{page>hk-footer#HKNW}}
