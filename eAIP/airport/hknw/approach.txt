@@ -4,39 +4,41 @@
 
 **VFR Arrivals**
 
+NOTE: 3 NM is abeam St. Aquinas Seminary Langata.  This position is designated "MONASTERY FINAL".
+
+
 **West Arrival**  
 
-Flights from the West of Wilson Airport shall fly via WHISKY 3 (01 19’ 46’’ S 036 20’ 25’’E) then on a 086°M to “WHISKY 2” position
-(01 19’ 14.820’’ S 036 31’ 52.585’’ E) then on a 086°M to overhead “WHISKY 1” (KBC) position (01 19’ 46’’ S 036 40’ 29’’ E) then on
-a 108°M to the Monastery for Nairobi Wilson.  
+Flights from the West of Wilson Airport shall fly via WHISKY 3 (011946S 0362025E) then on a 086ºM to "WHISKY 2" position
+(011914.820S 0363152.585E) then on a 086ºM to overhead "WHISKY 1" (KBC) position (011946S 0364029E) then on
+a 108ºM to the Monastery for Nairobi Wilson.  
 
 Note 1: Pilots are expected to maintain VFR below FL100 between WHISKY 3 and WHISKY 2.  
-Note 2: Flights are expected to be at 7500feet when overhead KBC due to proliferation of communication masts.
+Note 2: Flights are expected to be at 7500 feet when overhead KBC due to proliferation of communication masts.
 
 
 **South West Arrival**  
 
-Flights from the South West of Wilson Airport shall fly via CORNER BARIDI position (01 28 43.900S 036 39 26.520E) at 7500ft
-then on a 045°M to ONGATA RONGAI (OR001) position (01 23 36.540S 036 44 38.170E) then Monastery for Nairobi Wilson.  
+Flights from the South West of Wilson Airport shall fly via CORNER BARIDI position (012843.900S 0363926.520E) at 7500ft
+then on a 045ºM to ONGATA RONGAI (OR001) position (012336.540S 0364438.170E) then Monastery for Nairobi Wilson.  
 
 Aircrafts cleared to proceed to KBC from ONGATA RONGAI due to traffic for long finals to maintain 7500ft to avoid proliferation of
 communication masts.
 
 **North West Arrival**  
 
-Flights from the North West of Wilson Airport shall fly via Kĳabe checking the zone boundary at position (01 15’ 26.540’’ S 036 37’
-51.859’’ E) then fly on 152°M to “MIKE 1” at Gikambura Dam position (01 17’ 11.710’’ S 036 38’ 44.170’’ E), then 131°M to overhead
-KBC position (01 18’ 46’’ S 036 40’ 29’’ E) followed by a 108°M, for the Monastery position (01 20’ 30.230’’ S 036 45’ 33.350’’ E and a
-069°M for Nairobi Wilson.  
+Flights from the North West of Wilson Airport shall fly via Kĳabe checking the zone boundary at position (011526.540S 0363751.859E) then fly on 152ºM to "MIKE 1" at Gikambura Dam position (011711.710S 0363844.170E), then 131ºM to overhead
+KBC position (011846S 0364029E) followed by a 108ºM, for the Monastery position (012030.230S 0364533.350E) and a
+069ºM for Nairobi Wilson.  
 
-Aircrafts cleared to proceed to KBC from “MIKE 1” due to traffic should climb to 7500ft to avoid proliferation of communication masts.
+Aircrafts cleared to proceed to KBC from "MIKE 1" due to traffic should climb to 7500ft to avoid proliferation of communication masts.
 
 **North Arrival**  
 
-All aircrafts from the North of Wilson Airport route via NDAKAINI position 00 49’ 14.770’’S 036 50’ 18.500’’ E report at the zone
-boundary at “November 2”(NTW02) position (01 06’ 20.415’’ S 036 44’ 36.368’’ E) while on 197°M to LORESHO (Water Towers)
-position 01 13’ 43.211’’ S 036 42’ 08.997’’ E then to “MIKE 1” at Gikambura Dam position 01 17’ 11.710’’ S 036 38’ 44.170’’ E on a
-224°M then, KBC 131°M or if traffic permits direct to Monastery on 152°M to Wilson Airport.  
+All aircrafts from the North of Wilson Airport route via NDAKAINI position (004914.770S 0365018.500E) report at the zone
+boundary at "November 2"(NTW02) position (010620.415 S0364436.368E) while on 197ºM to LORESHO (Water Towers)
+position (011343.211S 0364208.997E) then to "MIKE 1" at Gikambura Dam position 01 (1711.710S 0363844.170E) on a
+224ºM then, KBC 131ºM or if traffic permits direct to Monastery on 152ºM to Wilson Airport.  
 
 Aircrafts cleared to proceed to KBC from Gikambura Dam, due to traffic should climb to 7500ft to avoid proliferation of communication
 masts
