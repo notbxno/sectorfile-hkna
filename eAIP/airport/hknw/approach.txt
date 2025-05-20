@@ -1,0 +1,87 @@
+===== HKNW Approach =====
+
+==== Arrivals Procedures ====
+
+**VFR Arrivals**
+
+NOTE: 3 NM is abeam St. Aquinas Seminary Langata.  This position is designated "MONASTERY FINAL".
+
+
+**West Arrival**  
+
+Flights from the West of Wilson Airport shall fly via WHISKY 3 (011946S 0362025E) then on a 086ºM to "WHISKY 2" position
+(011914.820S 0363152.585E) then on a 086ºM to overhead "WHISKY 1" (KBC) position (011946S 0364029E) then on
+a 108ºM to the Monastery for Nairobi Wilson.  
+
+Note 1: Pilots are expected to maintain VFR below FL100 between WHISKY 3 and WHISKY 2.  
+Note 2: Flights are expected to be at 7500 feet when overhead KBC due to proliferation of communication masts.
+
+
+**South West Arrival**  
+
+Flights from the South West of Wilson Airport shall fly via CORNER BARIDI position (012843.900S 0363926.520E) at 7500ft
+then on a 045ºM to ONGATA RONGAI (OR001) position (012336.540S 0364438.170E) then Monastery for Nairobi Wilson.  
+
+Aircrafts cleared to proceed to KBC from ONGATA RONGAI due to traffic for long finals to maintain 7500ft to avoid proliferation of
+communication masts.
+
+**North West Arrival**  
+
+Flights from the North West of Wilson Airport shall fly via Kĳabe checking the zone boundary at position (011526.540S 0363751.859E) then fly on 152ºM to "MIKE 1" at Gikambura Dam position (011711.710S 0363844.170E), then 131ºM to overhead
+KBC position (011846S 0364029E) followed by a 108ºM, for the Monastery position (012030.230S 0364533.350E) and a
+069ºM for Nairobi Wilson.  
+
+Aircrafts cleared to proceed to KBC from "MIKE 1" due to traffic should climb to 7500ft to avoid proliferation of communication masts.
+
+**North Arrival**  
+
+All aircrafts from the North of Wilson Airport route via NDAKAINI position (004914.770S 0365018.500E) report at the zone
+boundary at "November 2"(NTW02) position (010620.415 S0364436.368E) while on 197ºM to LORESHO (Water Towers)
+position (011343.211S 0364208.997E) then to "MIKE 1" at Gikambura Dam position 01 (1711.710S 0363844.170E) on a
+224ºM then, KBC 131ºM or if traffic permits direct to Monastery on 152ºM to Wilson Airport.  
+
+Aircrafts cleared to proceed to KBC from Gikambura Dam, due to traffic should climb to 7500ft to avoid proliferation of communication
+masts
+
+==== Approach Procedures ====
+
+^ Rwy  ^ Approach ^ Frequency ^ Course ^ GP Angle ^ IAF ^ Platform ^ Remarks ^
+| 07 | VISUAL| - | 069º | 3.00º | "KBC" | 7500 ft | - |
+| 25 | ::: | - | 249º | ::: | ::: | ::: | - |
+| 14 | :::| - | 133º | ::: | ::: | ::: | Pilots making an approach to Runway 14 should cross the area of the forces Memorial Hospital Complex at or above 5900 ft |
+| 32 | :::| - | 313º | ::: | ::: | ::: | - |
+
+==== Holds ====
+
+^ Name  ^ ILS Approach ^ Altitude ^ Speed (IAS)   ^ Inbound CRS ^ Turn ^ Remarks ^
+| GV | - | FL100 | 230 KT | 106º | Right | Authorization Required |
+| STONY | - | 9000ft | 230 KT | 287º | Left | ::: |
+
+==== Missed Approach Procedures ====
+
+- All runways on HKNW follow right patterns, except for 25 and 32.
+
+^ Rwy   ^ Approach ^ Missed Approach Procedure ^ Hold ^ Remarks ^
+| 07    | VISUAL | Climb on runway heading and join pattern. | PATTERN | Right-hand |
+| 14    | ::: | ::: | ::: | ::: |
+| 25    | ::: | ::: | ::: | Left-hand |
+| 32    | ::: | ::: | ::: | ::: |
+==== MSA and MRVA ====
+
+^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
+| NV | 0 nm  | 25 nm | 090º | 180º | 9600 ft | - |
+| ::: | 0 nm  | 25 nm | 180º | 270º | 8100 ft | - |
+| ::: | 0 nm  | 25 nm | 270º | 360º | 8000 ft | - |
+| ::: | 0 nm  | 25 nm | 360º | 090º | 9100 ft | - |
+
+
+==== Diversions ====
+
+^ ICAO ^ Name ^ Distance  ^ Longest Rwy ^ Remarks ^ 
+| HKJK | Jomo Kenyatta International Airport | 8 nm | 4116m | - |
+| HKMO | Moi International Airport | 243nm | 3350m | - |
+| HKKI | Kisumu International Airport | 147nm | 3300m | - |
+| HKEL | Eldoret International Airport | 143nm | 3475m | - |
+| HTKJ | Kilimanjaro International Airport | 182nm | 3600m | - |
+
+{{page>hk-footer#HKNW}}

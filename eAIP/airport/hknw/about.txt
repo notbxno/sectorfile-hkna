@@ -1,0 +1,59 @@
+===== HKNW About =====
+
+**Wilson Airport** is an airport in Nairobi, Kenya. It has flights to many regional airports in Kenya while Nairobi's main airport, [[airport:hkjk:home|Jomo Kenyatta International Airport]], serves domestic and many international destinations.
+
+==== Aerodrome Data ====
+
+| ICAO                  | HKNW    |
+| IATA                  | WIL     |
+| Elevation             | 5546ft  |
+| Transition Altitude   | 9000 ft |
+| Transition Level      | FL100   |
+| Mag Variation         | 0.56º E |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Wilson_Airport&params=01_19_12_S_36_48_54_E_type:airport_region:KE&title=Wilson+Airport|01°19′12″S 36°48′54″E]] |
+| Site | [[http://kaa.go.ke/]]    |
+
+==== Runways ====
+
+^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Remarks ^
+| 07 | 069º | 1460 | 1460 | 1460 | 1460 | - |
+| 25 | 249º | 1460 | 1460 | 1460 | 1460 | - |
+| 14 | 133º | 1554 | 1554 | 1654 | 1360 | - |
+| 32 | 313º | 1554 | 1554 | 1554 | 1554 | - |
+
+
+==== Aprons ====
+
+^ Apron     ^ Type              ^ Entry / Exit  ^ Remarks ^
+| Apron 1  | Main Terminal / Remote | Twys B, C   | - |
+| Apron 2  | Main Terminal / Remote | Twy B, C    | - |
+| Apron 3  | General Aviation       | Twys F, B   | - |
+| Apron 4  | General Aviation       | Twys G, A   | - |
+| Remote E | General Aviation       | Twys E1, E2 | - |
+| Remote B | General Aviation       | Twys L, M   | - |
+
+
+
+
+==== Positions & Frequencies ====
+
+^ Position  ^ Callsign          ^ Frequency ^ Remarks ^
+| HKNW_GND  | Wilson Ground   | 121.900     | - |
+| HKNW_GND  | Wilson Tower    | 118.100     | - |
+| HKJK_APP  | Nairobi Radar   | 122.300     | - |
+| HKNA_CTR  | Nairobi Control | 121.300     | - |
+
+==== Airspace ====
+
+  * //This section might require further review due to the proximity of HKNW and HKRE.//
+
+^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Wilson Area CTR Area II   | D     | HKNW_TWR | GND - 6500 | - |
+| Wilson Area CTR Area I   | D     | HKNW_TWR | GND - FL90  | - |
+| Nairobi CTR Area III | C | HKJK_TWR | GND - FL090 | - |
+| Nairobi TMA   | E     | - | A015 - FL195  | - |
+| Nairobi TMA   | A     | HKJK_APP | FL145 - FL195  | - |
+| Nairobi FIR/UIR     | A     | HKNA_CTR | FL145 - UNL    | - |
+
+
+{{page>hk-footer#HKNW}}

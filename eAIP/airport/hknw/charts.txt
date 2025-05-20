@@ -1,0 +1,14 @@
+===== HKNW Charts =====
+
+The following charts are sourced from the KCAA public AIP.
+
+^ Code ^ Description                           ^ URL ^ Remarks ^
+| ADC   | Aerodrome Chart - ICAO                                                | [[https://eaip.kcaa.or.ke/eAIP_03102024/03-10-2024/documents/Root_WePub/Kenya_Rep/Charts/AD/HKNW/HK-AD%202%20AERODROME-R.pdf|Chart]] | - |
+| GMC   | Aerodrome Ground Movement Chart - ICAO                                | [[https://eaip.kcaa.or.ke/eAIP_03102024/03-10-2024/documents/Root_WePub/Kenya_Rep/Charts/AD/HKNW/HK-AD%202%20AERODOME%20GROUND%20MOVEMENT%20CHATR-R.pdf|Chart]] | - |
+| SID   | RNAV (GNSS) Standard Departure Chart - Instrument (SID) RWY 14 - ICAO | [[https://eaip.kcaa.or.ke/eAIP_03102024/03-10-2024/documents/Root_WePub/Kenya_Rep/Charts/AD/HKNW/HK-AD%202%20STANDARD%20INSTRUMENT%20DEPARTURE%20CHART.pdf|Chart]] | - |
+
+
+The complete set of HKNW Official Charts can be found [[https://eaip.kcaa.or.ke/eAIP_03102024/03-10-2024/eAIP/HK-AD%202%20HKNW-en-GB.html|here]].
+
+
+{{page>hk-footer#HKNW}}

@@ -1,0 +1,19 @@
+===== HKNW Ground =====
+
+
+=== Phraseology ===
+
+<code>
+CALLSIGN, push-back approved, facing DIRECTION.
+</code>
+
+^ Apron     ^ Type              ^ Facing  ^ Remarks ^
+| Apron 1  | Main Terminal / Remote | North-west or South-east | Only start-up will be needed in most cases. |
+| Apron 2  | Main Terminal / Remote | East or West    | ::: |
+| Apron 3  | General Aviation       | North-east or South-west   | ::: |
+| Apron 4  | General Aviation       | East or West   | ::: |
+| Remote E | General Aviation       | North-west or South-east | ::: |
+| Remote B | General Aviation       | East or West | ::: |
+
+
+{{page>hk-footer#HKNW}}
