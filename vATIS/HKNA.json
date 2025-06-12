@@ -1,6 +1,8 @@
 {
-	"Name": "HKNA Nairobi FIR v2",
-	"Composites": [
+	"Name": "HKNA Nairobi FIR v3",
+	"updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-hkna/refs/heads/main/vATIS/HKNA.json",
+	"updateSerial": 2025061201,
+	"stations": [
 		{
 			"Name": "Nairobi Jomo Kenyatta Intl",
 			"Identifier": "HKJK",
