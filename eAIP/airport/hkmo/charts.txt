@@ -1,7 +1,23 @@
 ===== HKMO Charts =====
 
-Unfortunately, Kenya does not provide publicly accessible navigational charts for its airspace or airports.
+The following charts are sourced from the KCAA public AIP.
 
-So, the most we can do at this point is to offer you a link to Google's [[https://www.google.com/search?q=HKMO+Charts|Search Results]].
+^ Code ^ Description                           ^ URL ^ Remarks ^
+| ADC  | Aerodrome Chart - ICAO | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/AERODROME%20CHART_-.pdf|Chart]] | - |
+| ADPC | Aerodrome Parking Chart - ICAO | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/AERODROME%20PARKING%20CHART_-.pdf|Chart]] | - |
+| SID  | Standard Departure Chart - Instrument (SID) RWY 03 - ICAO | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/HKMO%20SID%20RWY%2003%20ETBAX%201A%20-%20EVIDI%201A%20DEPARTURES_R.pdf|Chart]] | - |
+| SID  | Standard Departure Chart - Instrument (SID) RWY 21 - ICAO | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/HKMO%20SID%20RWY%2021%20IMSIS%201A%20-%20MOKAD%201C%20DEPARTURES_R.pdf|Chart]] | - |
+| STAR | RNAV (GNSS) Standard Arrival Chart - Instrument (STAR) RWY 03 - ICAO | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/STAR_RNAV%20GNSS,AVUDU%202B,%20MOBAT%202B,%20MOKAD%202B,%20UVUKO%202B....ARRIVALS,RWY%2003_R_.pdf|Chart]] | - |
+| STAR | RNAV (GNSS) Standard Arrival Chart - Instrument (STAR) RWY 21 - ICAO | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/MIDNI_2A,AVUDU%202A....IBNOK%202A%20ARRIVALS%20HKMO%20RWY%2021_---.pdf|Chart]] | - |
+| IAC  | Instrument Approach Chart ILS RWY 21 - ICAO | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/HKMO%20ILS%20RWY%2021_R.pdf|Chart]] | - |
+| IAC  | Instrument Approach Chart DVOR DME RWY 03 - ICAO | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/HKMO__DVOR_DME%2003_R.pdf|Chart]] | - |
+| IAC  | Instrument Approach Chart DVOR DME RWY 21 - ICAO | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/HKMO__DVOR_DME%2021_R.pdf|Chart]] | - |
+| IAC  | Instrument Approach Chart RNP RWY 03 - ICAO | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/IAP_RNP%20HKMO%20RWY%2003_R.pdf|Chart]] | - |
+| IAC  | Instrument Approach Chart RNP RWY 21 - ICAO | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/IAP_RNP%20HKMO%20RWY%2021_---.pdf|Chart]] | - |
+| IAC  | Instrument Approach Chart RNAV Transition to ILS RWY 21 - ICAO | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/HKMO%20RNAV%20TRANSITION%20TO%20ILS%20RWY%2021_(R).pdf|Chart]] | - |
+| GEN  | HKMO Terms and Conditions | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/HKMO%20TERMS%20AND%20CONDITIONS_(R).pdf|Chart]] | - |
+| AOC  | Aerodrome Obstacle Chart — ICAO Type A (Operating limitations) | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/AERODROME%20OBSTACLE%20CHART%20TYPE%20A_R.pdf|Chart]] | - |
+
+The complete set of HKMO Official Charts can be found [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/eAIP/HK-AD%202%20HKMO-en-GB.html|here]].
 
 {{page>hk-footer#HKMO}}

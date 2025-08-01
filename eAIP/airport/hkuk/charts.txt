@@ -1,7 +1,12 @@
 ===== HKUK Charts =====
 
-Unfortunately, Kenya does not provide publicly accessible navigational charts for its airspace or airports.
+The following charts are sourced from the KCAA public AIP.
 
-So, the most we can do at this point is to offer you a link to Google's [[https://www.google.com/search?q=HKUK+Charts|Search Results]].
+^ Code  ^ Description                       ^ URL ^ Remarks ^
+| ADC   | Aerodrome Chart - ICAO           | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKUK/HK-AD%202%20diani%20aredrome%20chart.pdf|Chart]] | - |
+| VFR   | VFR ROUTES: DIANI ACCESS LANES   | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKUK/HK-AD%202%20VFR%20R_]] | - |
+
+The complete set of HKUK Official Charts can be found [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/eAIP/HK-AD%202%20HKUK-en-GB.html|here]].
+
 
 {{page>hk-footer#HKUK}}
